@@ -1,4 +1,4 @@
-#Dynamic Tableau Dashboard for Key Sales Metrics
+# Dynamic Tableau Dashboard for Key Sales Metrics
 
 Developed Modern Sales dashboard in tableau that tracked 3 KPI measuring total profit, total orders & Turnover
 1st KPI for total profit in the current year with comparison to prior Year
