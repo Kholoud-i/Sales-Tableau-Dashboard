@@ -7,7 +7,7 @@ Created calculated fields that measure 3 KPIs
 3rd KPI for turnover
 Created visualization to track daily sales  
 Used Figma to draft dashboard design      
-Tableau Actions to create interactive relationship between data
+Used Tableau Actions to create interactive relationship between data
 
 
 ![Tableau Dashboard](https://github.com/Kholoud-i/Sales-Tableau-Dashboard/assets/134650050/d624e48f-484b-47ac-8d46-c93610ba79ee)
