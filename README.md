@@ -6,3 +6,5 @@ Developed Modern Sales dashboard in tableau that tracked 3 KPI measuring total p
 Created visualization to track daily sales  
 Used figma to draft interactive dashboard design  
 
+
+![Tableau Dashboard](https://github.com/Kholoud-i/Sales-Tableau-Dashboard/assets/134650050/d624e48f-484b-47ac-8d46-c93610ba79ee)
