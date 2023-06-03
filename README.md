@@ -2,8 +2,8 @@
 
 Developed Modern Sales dashboard in tableau  
 Created calculated fields that measure 3 KPIs  
-1st KPI for current year total profit comparison to prior Year  
-2nd KPI for the total Orders  
+1st KPI for current year total profit compared to the prior Year  
+2nd KPI for the total orders  
 3rd KPI for turnover
 Created visualization to track daily sales  
 Used Figma to draft dashboard design      
